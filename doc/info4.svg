@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="info4.svg"
+   inkscape:export-filename="/core/Data/Games/minecraft/urlium_1_20_1/doc/urlium1_d.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2908">
+      <stop
+         id="stop2900"
+         offset="0"
+         style="stop-color:#772f00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00db1e;stop-opacity:1;"
+         offset="0.29092902"
+         id="stop2902" />
+      <stop
+         style="stop-color:#772f00;stop-opacity:1;"
+         offset="0.71992272"
+         id="stop2904" />
+      <stop
+         id="stop2906"
+         offset="1"
+         style="stop-color:#00c81b;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2898">
+      <stop
+         id="stop2890"
+         offset="0"
+         style="stop-color:#0dff2e;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8b3700;stop-opacity:1;"
+         offset="0.46243784"
+         id="stop2892" />
+      <stop
+         style="stop-color:#772f00;stop-opacity:1;"
+         offset="0.52067757"
+         id="stop2894" />
+      <stop
+         id="stop2896"
+         offset="1"
+         style="stop-color:#00c81b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1018"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient979">
+      <stop
+         style="stop-color:#772f00;stop-opacity:1;"
+         offset="0"
+         id="stop975" />
+      <stop
+         id="stop2880"
+         offset="0.36794841"
+         style="stop-color:#00db1e;stop-opacity:1;" />
+      <stop
+         id="stop2878"
+         offset="0.52067757"
+         style="stop-color:#772f00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00c81b;stop-opacity:1;"
+         offset="1"
+         id="stop977" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient963">
+      <stop
+         style="stop-color:#00d7e6;stop-opacity:1;"
+         offset="0"
+         id="stop959" />
+      <stop
+         id="stop973"
+         offset="0.14602488"
+         style="stop-color:#0093cb;stop-opacity:1;" />
+      <stop
+         id="stop969"
+         offset="0.52325583"
+         style="stop-color:#004fb1;stop-opacity:1;" />
+      <stop
+         style="stop-color:#008fc8;stop-opacity:1;"
+         offset="0.88358575"
+         id="stop971" />
+      <stop
+         style="stop-color:#00d0df;stop-opacity:1;"
+         offset="1"
+         id="stop961" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="135.69491 : 180.70564 : 1"
+       inkscape:vp_y="9.4920673e-14 : -775.08614 : 0"
+       inkscape:vp_z="-39.877129 : 179.5338 : 1"
+       inkscape:persp3d-origin="46.686216 : 251.59143 : 1"
+       id="perspective32" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-9-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2-1-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-9-8-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-23"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="131.49286 : 108.43386 : 1"
+       inkscape:vp_y="8.3027311e-14 : -677.96947 : 0"
+       inkscape:vp_z="-22.080379 : 107.40884 : 1"
+       inkscape:persp3d-origin="53.636762 : 170.43779 : 1"
+       id="perspective32-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="220.42257 : 103.81961 : 1"
+       inkscape:vp_y="7.8857147e-14 : -643.91752 : 0"
+       inkscape:vp_z="74.562703 : 102.84608 : 1"
+       inkscape:persp3d-origin="146.47692 : 162.70934 : 1"
+       id="perspective32-9-1" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2-1-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-9-8-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2-1-3-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-9-8-7-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-74"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1018-74-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient963-3"
+       id="linearGradient1684"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6731411,0,0,1.6731411,-56.382046,50.211352)"
+       x1="88.509148"
+       y1="-4.8170209"
+       x2="101.52608"
+       y2="-18.982306" />
+    <linearGradient
+       id="linearGradient963-3">
+      <stop
+         id="stop959-6"
+         offset="0"
+         style="stop-color:#fbfbfb;stop-opacity:1;" />
+      <stop
+         style="stop-color:#6fd7ff;stop-opacity:1;"
+         offset="0.12266462"
+         id="stop973-7" />
+      <stop
+         style="stop-color:#c9f6f9;stop-opacity:1;"
+         offset="0.42963728"
+         id="stop969-5" />
+      <stop
+         id="stop961-3"
+         offset="1"
+         style="stop-color:#42f2ff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="294.42139"
+     inkscape:cy="788.37779"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect17771"
+       width="209.80658"
+       height="295.86737"
+       x="0.17277548"
+       y="0.22011778" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.8731389px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45820922px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.408878"
+       y="27.32839"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="23.408878"
+         y="27.32839"
+         style="stroke-width:0.45820922px">URLium 1.3.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.42390537px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.294927px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="46.716354"
+       y="33.853386"
+       id="text12-3"><tspan
+         sodipodi:role="line"
+         id="tspan10-6"
+         x="46.716354"
+         y="33.853386"
+         style="stroke-width:0.294927px">By ElectricShmoo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.32669115px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22177936px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="122.46365"
+       y="54.652695"
+       id="text14460-8-2-6"><tspan
+         sodipodi:role="line"
+         x="122.46365"
+         y="54.652695"
+         style="stroke-width:0.22177936px"
+         id="tspan14834-6-1">All server-side.  </tspan><tspan
+         sodipodi:role="line"
+         x="122.46365"
+         y="58.811058"
+         style="stroke-width:0.22177936px"
+         id="tspan19817" /><tspan
+         sodipodi:role="line"
+         x="122.46365"
+         y="62.969421"
+         style="stroke-width:0.22177936px"
+         id="tspan1045">Just a custom world resource</tspan><tspan
+         sodipodi:role="line"
+         x="122.46365"
+         y="67.127785"
+         style="stroke-width:0.22177936px"
+         id="tspan1043">pack download for clients.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.07906628px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33860436px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.289185"
+       y="76.197083"
+       id="text6289-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan6287-8-5"
+         x="29.289185"
+         y="76.197083"
+         style="stroke-width:0.33860436px">Installing:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334844px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.265663"
+       y="83.39772"
+       id="text14365-9"><tspan
+         sodipodi:role="line"
+         x="30.265663"
+         y="83.39772"
+         style="stroke-width:0.22334844px"
+         id="tspan14375-2">* Place files in /mods/ folder of server:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.07906628px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33860436px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.418982"
+       y="53.964142"
+       id="text6289-8-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan6287-8-5-7"
+         x="29.418982"
+         y="53.964142"
+         style="stroke-width:0.33860436px">Dependencies:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.984074"
+       y="60.593174"
+       id="text14365-9-8"><tspan
+         sodipodi:role="line"
+         x="29.984074"
+         y="60.593174"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-5">* <tspan
+   style="font-weight:bold"
+   id="tspan1013">Polymer 0.5.18</tspan> for <tspan
+   style="font-weight:bold"
+   id="tspan1015">Fabric 1.20.1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.420006"
+       y="88.601357"
+       id="text14365-9-8-7"><tspan
+         sodipodi:role="line"
+         x="39.420006"
+         y="88.601357"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-5-4">polymer-bundled-0.5.18+1.20.1.jar</tspan><tspan
+         sodipodi:role="line"
+         x="39.420006"
+         y="92.789139"
+         style="stroke-width:0.22334845px"
+         id="tspan16943">urlium-1.3.0-1.20.1.jar</tspan><tspan
+         sodipodi:role="line"
+         x="39.420006"
+         y="96.976921"
+         style="stroke-width:0.22334845px"
+         id="tspan16941" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.074066"
+       y="99.944679"
+       id="text14365-9-5"><tspan
+         sodipodi:role="line"
+         x="30.074066"
+         y="99.944679"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-9">* Launch server to generate default config file:  /config/urlium.properties</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.28323"
+       y="115.58881"
+       id="text14365-9-5-8"><tspan
+         sodipodi:role="line"
+         x="30.28323"
+         y="115.58881"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-9-3">* Generate resource pack with polymer command for clients.:</tspan><tspan
+         sodipodi:role="line"
+         x="30.28323"
+         y="119.7766"
+         style="stroke-width:0.22334845px"
+         id="tspan17028">        As 'op' admin user, or from server CLI run:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="38.683369"
+       y="125.4163"
+       id="text14365-9-8-7-7-1"><tspan
+         sodipodi:role="line"
+         x="38.683369"
+         y="125.4163"
+         style="stroke-width:0.22334845px"
+         id="tspan16943-3-8">/polymer generate-pack</tspan><tspan
+         sodipodi:role="line"
+         x="38.683369"
+         y="129.60408"
+         style="stroke-width:0.22334845px"
+         id="tspan16941-8-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.015903"
+       y="131.48671"
+       id="text14365-9-5-8-6"><tspan
+         sodipodi:role="line"
+         x="35.015903"
+         y="131.48671"
+         style="stroke-width:0.22334845px"
+         id="tspan17028-3">...which will produce: /polymer-resourcepack.zip</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.746887"
+       y="139.23517"
+       id="text14365-9-5-8-3"><tspan
+         sodipodi:role="line"
+         x="30.746887"
+         y="139.23517"
+         style="stroke-width:0.22334845px"
+         id="tspan17028-8">* Stop the server, and set the values in /config/urlium.properties  (see next page)</tspan><tspan
+         sodipodi:role="line"
+         x="30.746887"
+         y="143.42296"
+         style="stroke-width:0.22334845px"
+         id="tspan1208" /><tspan
+         sodipodi:role="line"
+         x="30.746887"
+         y="147.61073"
+         style="stroke-width:0.22334845px"
+         id="tspan1158">* If you use existing resource packs, merge the polymer pack contents with the existing .zip file.</tspan><tspan
+         sodipodi:role="line"
+         x="30.746887"
+         y="151.79852"
+         style="stroke-width:0.22334845px"
+         id="tspan1156">* Make the polymer-resourcepack.zip file available via web download (server, dropbox, etc)</tspan><tspan
+         sodipodi:role="line"
+         x="30.746887"
+         y="155.9863"
+         style="stroke-width:0.22334845px"
+         id="tspan17076">* Add config lines to server.properties to set resource pack (ensure URL ends with ?dl\=1):</tspan><tspan
+         sodipodi:role="line"
+         x="30.746887"
+         y="160.17409"
+         style="stroke-width:0.22334845px"
+         id="tspan17078" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.26406932px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21760462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.091671"
+       y="162.26801"
+       id="text17082"><tspan
+         sodipodi:role="line"
+         id="tspan17080"
+         x="40.091671"
+         y="162.26801"
+         style="stroke-width:0.21760462px">require-resource-pack=true</tspan><tspan
+         sodipodi:role="line"
+         x="40.091671"
+         y="166.3481"
+         style="stroke-width:0.21760462px"
+         id="tspan17086">resource-pack=https\://my.web.domain/resourcepack.zip?dl\=1</tspan><tspan
+         sodipodi:role="line"
+         x="40.091671"
+         y="170.42818"
+         style="stroke-width:0.21760462px"
+         id="tspan17176">resource-pack-sha1=[optional sha1 hash]</tspan><tspan
+         sodipodi:role="line"
+         x="40.091671"
+         y="174.50827"
+         style="stroke-width:0.21760462px"
+         id="tspan17084" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.417166"
+       y="178.59711"
+       id="text14365-9-5-4"><tspan
+         sodipodi:role="line"
+         x="31.417166"
+         y="178.59711"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-9-8">* All set!  Restart your server and check your log file to see if URLium 'target' property is loaded.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.381222"
+       y="185.85419"
+       id="text14365-9-5-4-8"><tspan
+         sodipodi:role="line"
+         x="31.381222"
+         y="185.85419"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-9-8-8">* In creative mode, you can get the URL Post Block or Post Wand with:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.27308226px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21820547px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.027679"
+       y="190.94629"
+       id="text17154"><tspan
+         sodipodi:role="line"
+         id="tspan17152"
+         x="40.027679"
+         y="190.94629"
+         style="stroke-width:0.21820547px">/give YourUserName urlium:block/urlpost_block</tspan><tspan
+         sodipodi:role="line"
+         x="40.027679"
+         y="195.03764"
+         style="stroke-width:0.21820547px"
+         id="tspan1210">/give YourUserName urlium:item/urlpostwand_item</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.269676"
+       y="206.07544"
+       id="text14365-9-5-4-8-9"><tspan
+         sodipodi:role="line"
+         x="32.269676"
+         y="206.07544"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-9-8-8-7">* Place a URL Post Block and connect it to activated redstone, or click a block with the Wand.  </tspan><tspan
+         sodipodi:role="line"
+         x="32.269676"
+         y="210.26323"
+         style="stroke-width:0.22334845px"
+         id="tspan17174">        The target URL should receive data like:  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.096603"
+       y="216.92317"
+       id="text14365-9-8-7-7-1-7"><tspan
+         sodipodi:role="line"
+         x="41.096603"
+         y="216.92317"
+         style="stroke-width:0.22334845px"
+         id="tspan16941-8-9-4">{&quot;p&quot;:&quot;15&quot;,&quot;method&quot;:&quot;sense&quot;,&quot;x&quot;:&quot;-30&quot;,&quot;y&quot;:&quot;71&quot;,&quot;z&quot;:&quot;-149&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="41.096603"
+         y="221.11096"
+         style="stroke-width:0.22334845px"
+         id="tspan18998">  &quot;device&quot;:&quot;block&quot;,&quot;user&quot;:&quot;ElectricShmoo&quot;,&quot;ts&quot;:&quot;1691307209360&quot;}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.02132225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20142151px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="113.08856"
+       y="177.69585"
+       id="text14365-9-8-7-7-3"><tspan
+         sodipodi:role="line"
+         x="113.08856"
+         y="180.369"
+         style="stroke-width:0.20142151px"
+         id="tspan16943-3-0" /><tspan
+         sodipodi:role="line"
+         x="113.08856"
+         y="184.14566"
+         style="stroke-width:0.20142151px"
+         id="tspan16941-8-3" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.37525988px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22501731px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.371307"
+       y="229.5907"
+       id="text18974"><tspan
+         sodipodi:role="line"
+         x="41.371307"
+         y="229.5907"
+         style="stroke-width:0.22501731px"
+         id="tspan18978">{&quot;p&quot;:&quot;0&quot;,&quot;method&quot;:&quot;MAIN_HAND&quot;,&quot;x&quot;:&quot;-32&quot;,&quot;y&quot;:&quot;70&quot;,&quot;z&quot;:&quot;-149&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="41.371307"
+         y="233.84132"
+         style="stroke-width:0.22501731px"
+         id="tspan18989">  &quot;block&quot;:&quot;translation{key='block.minecraft.grass_block', args=[]}&quot;,&quot;device&quot;:&quot;wand&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="41.371307"
+         y="238.09196"
+         style="stroke-width:0.22501731px"
+         id="tspan18991">  &quot;user&quot;:&quot;ElectricShmoo&quot;,&quot;ts&quot;:&quot;1691307156474&quot;}</tspan><tspan
+         sodipodi:role="line"
+         x="41.371307"
+         y="242.32681"
+         style="stroke-width:0.22501731px"
+         id="tspan18987" /></text>
+    <g
+       id="g1682"
+       transform="matrix(0.66409803,0,0,0.66409803,29.10564,9.6036273)">
+      <rect
+         inkscape:export-ydpi="408.79504"
+         inkscape:export-xdpi="408.79504"
+         ry="4.6857691"
+         rx="4.6857691"
+         y="16.779945"
+         x="90.779121"
+         height="24.24831"
+         width="24.24831"
+         id="rect1547"
+         style="opacity:1;fill:url(#linearGradient1684);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.60521704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(2.4181843,0,0,2.4181843,-158.49619,47.194394)"
+         id="g1424">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.89190769px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59279376px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="103.30534"
+           y="-5.9646864"
+           id="text1374-2"><tspan
+             sodipodi:role="line"
+             id="tspan1372-0"
+             x="103.30534"
+             y="-5.9646864"
+             style="stroke-width:0.59279376px">:</tspan></text>
+        <image
+           width="8.2261267"
+           height="8.2261267"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5wgNChcQECwDogAAAI1JREFUOMtjYBgFtAVRwS/+11d9 +0+WZjvzK/+V/uv///9dCa8hTLgkuLlZGe7++MygzMHLcPvmJ/K8wM/w/7+n0028XmDCJ9lW6s7A wxzKQLYBXFxcDG8/fCHfAAYGBgZhAR7yDfj27RvBcMJrwI1HHxhevH5PvgFGGlIM//79I9+Aczee Mfz58wevAQA46jBgdXiapwAAAABJRU5ErkJggg== "
+           id="image1073-7-2"
+           x="95.284813"
+           y="-47.757103"
+           transform="rotate(18.692971)" />
+        <image
+           width="8.3513412"
+           height="8.3513412"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5wgFAx0WycVdfQAAAI1JREFUOMtjYBgFtAVRwS/+11d9 +0+WZjvzK/9XMzD8b2VYjdcQJlwS3NysDLcYVjOoMYQy3L75iTwv8DP8/+/pdBOvF5jwSbaVujPw MIcykG0AFxcXw9sPX8g3gIGBgUFYgId8A759+0YwnPAacOPRB4YXr9+Tb4CRhhTDv3//yDfg3I1n DH/+/MFrAABOXS3TAvahDAAAAABJRU5ErkJggg== "
+           id="image18885-0-3"
+           x="98.343315"
+           y="-47.352909"
+           transform="rotate(17.925027)" />
+      </g>
+      <g
+         inkscape:export-ydpi="408.79504"
+         inkscape:export-xdpi="408.79504"
+         transform="matrix(1.6731411,0,0,1.6731411,-56.391985,50.211352)"
+         id="g1613">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 89.249457,-8.2119443 h 0.661458"
+           id="path1559"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 90.477878,-8.2119443 c 0.685082,0 1.606399,0 1.606399,0"
+           id="path1561"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 92.887478,-8.2119443 H 93.85604"
+           id="path1563"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 94.73011,-8.2119443 h 2.291482"
+           id="path1565"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 98.01378,-8.2119443 h 0.401597"
+           id="path1567"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 98.663427,-8.2119443 h 0.590592"
+           id="path1569"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 99.535134,-8.2119443 h 1.630026"
+           id="path1571"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="408.79504"
+         inkscape:export-xdpi="408.79504"
+         transform="matrix(1.6731411,0,0,1.6731411,-56.387738,50.211352)"
+         id="g1622">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 101.16262,-7.3535164 h -0.66146"
+           id="path1559-8"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 99.934197,-7.3535164 c -0.685082,0 -1.606399,0 -1.606399,0"
+           id="path1561-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 97.524597,-7.3535164 H 96.556035"
+           id="path1563-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 95.681965,-7.3535164 H 93.390483"
+           id="path1565-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 92.398296,-7.3535164 h -0.4016"
+           id="path1567-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 91.748646,-7.3535164 h -0.59059"
+           id="path1569-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ef0e0e;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 90.876946,-7.3535164 H 89.24692"
+           id="path1571-2"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.691847"
+       y="65.670067"
+       id="text14365-9-8-3"><tspan
+         sodipodi:role="line"
+         x="29.691847"
+         y="65.670067"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-5-6">* <tspan
+   style="font-weight:bold;stroke-width:0.22334845px"
+   id="tspan1013-7">Polymer 0.6.2</tspan> for <tspan
+   style="font-weight:bold;stroke-width:0.22334845px"
+   id="tspan1015-5">Fabric 1.20.2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="119.94204"
+       y="87.376495"
+       id="text14365-9-8-7-3"><tspan
+         sodipodi:role="line"
+         x="119.94204"
+         y="87.376495"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-5-4-5">polymer-bundled-0.6.2+1.20.2.jar</tspan><tspan
+         sodipodi:role="line"
+         x="119.94204"
+         y="91.564278"
+         style="stroke-width:0.22334845px"
+         id="tspan1071">urlium-1.3.0-1.20.2.jar</tspan><tspan
+         sodipodi:role="line"
+         x="119.94204"
+         y="95.75206"
+         style="stroke-width:0.22334845px"
+         id="tspan16941-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.3502264px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22334845px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.7911"
+       y="105.15639"
+       id="text14365-9-5-6"><tspan
+         sodipodi:role="line"
+         x="39.7911"
+         y="105.15639"
+         style="stroke-width:0.22334845px"
+         id="tspan14375-2-9-2">Rename or delete your old config file if you are upgrading from a previous version.</tspan><tspan
+         sodipodi:role="line"
+         x="39.7911"
+         y="109.34417"
+         style="stroke-width:0.22334845px"
+         id="tspan1142">Once generated, copy your old settings to the new file.</tspan></text>
+  </g>
+</svg>

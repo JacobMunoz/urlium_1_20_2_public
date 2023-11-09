@@ -1,0 +1,54 @@
+{
+  "mappings": {
+    "electricshmoo/urlium/mixin/UrliumBlockEntityDataSaverMixin": {
+      "readNbt": "Lnet/minecraft/class_2586;method_11014(Lnet/minecraft/class_2487;)V",
+      "writeNbt": "Lnet/minecraft/class_2586;method_11007(Lnet/minecraft/class_2487;)V"
+    },
+    "electricshmoo/urlium/mixin/UrliumComparatorPowerUpdateMixin": {
+      "update": "Lnet/minecraft/class_2286;method_9775(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+    },
+    "electricshmoo/urlium/mixin/UrliumEntityResponderMixin": {
+      "interact": "Lnet/minecraft/class_1297;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;",
+      "readNbt": "Lnet/minecraft/class_1297;method_5651(Lnet/minecraft/class_2487;)V",
+      "writeNbt": "Lnet/minecraft/class_1297;method_5647(Lnet/minecraft/class_2487;)Lnet/minecraft/class_2487;"
+    },
+    "electricshmoo/urlium/mixin/UrliumMobInteractionMixin": {
+      "interact": "Lnet/minecraft/class_1308;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;",
+      "interactWithItem": "Lnet/minecraft/class_1308;method_29506(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;",
+      "readCustomDataFromNbt": "Lnet/minecraft/class_1308;method_5749(Lnet/minecraft/class_2487;)V",
+      "writeCustomDataToNbt": "Lnet/minecraft/class_1308;method_5652(Lnet/minecraft/class_2487;)V"
+    },
+    "electricshmoo/urlium/mixin/UrliumSculkSensorUpdateMixin": {
+      "scheduledTick": "Lnet/minecraft/class_5703;method_9588(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V",
+      "setActive": "Lnet/minecraft/class_5703;method_32904(Lnet/minecraft/class_1297;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;II)V",
+      "setCooldown": "Lnet/minecraft/class_5703;method_32903(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "electricshmoo/urlium/mixin/UrliumBlockEntityDataSaverMixin": {
+        "readNbt": "Lnet/minecraft/class_2586;method_11014(Lnet/minecraft/class_2487;)V",
+        "writeNbt": "Lnet/minecraft/class_2586;method_11007(Lnet/minecraft/class_2487;)V"
+      },
+      "electricshmoo/urlium/mixin/UrliumComparatorPowerUpdateMixin": {
+        "update": "Lnet/minecraft/class_2286;method_9775(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+      },
+      "electricshmoo/urlium/mixin/UrliumEntityResponderMixin": {
+        "interact": "Lnet/minecraft/class_1297;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;",
+        "readNbt": "Lnet/minecraft/class_1297;method_5651(Lnet/minecraft/class_2487;)V",
+        "writeNbt": "Lnet/minecraft/class_1297;method_5647(Lnet/minecraft/class_2487;)Lnet/minecraft/class_2487;"
+      },
+      "electricshmoo/urlium/mixin/UrliumMobInteractionMixin": {
+        "interact": "Lnet/minecraft/class_1308;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;",
+        "interactWithItem": "Lnet/minecraft/class_1308;method_29506(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;",
+        "readCustomDataFromNbt": "Lnet/minecraft/class_1308;method_5749(Lnet/minecraft/class_2487;)V",
+        "writeCustomDataToNbt": "Lnet/minecraft/class_1308;method_5652(Lnet/minecraft/class_2487;)V"
+      },
+      "electricshmoo/urlium/mixin/UrliumSculkSensorUpdateMixin": {
+        "scheduledTick": "Lnet/minecraft/class_5703;method_9588(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V",
+        "setActive": "Lnet/minecraft/class_5703;method_32904(Lnet/minecraft/class_1297;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;II)V",
+        "setCooldown": "Lnet/minecraft/class_5703;method_32903(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+      }
+    }
+  }
+}
